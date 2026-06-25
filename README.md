@@ -33,3 +33,30 @@ high-risk requests to human supervisors.
 - Python 3.11
 
 ## Project Structure
+customer_support_ai/
+
+├── state.py              # Task 2: Shared state structure
+
+├── nodes.py              # Tasks 3,5,8,9: All node functions
+
+├── graph.py              # Tasks 1,4: LangGraph workflow & routing
+
+├── rag_pipeline.py       # Task 6: RAG pipeline with FAISS
+
+├── memory.py             # Task 7: SQLite memory
+
+├── human_approval.py     # Task 8: Human-in-the-loop logic
+
+├── main.py               # Task 10: Demo with 5 sample queries
+
+├── generate_diagram.py   # Workflow diagram generator
+
+├── documents/            # Knowledge base documents
+
+├── diagrams/             # Workflow diagram PNG
+
+├── screenshots.pdf       # Task output screenshots
+
+├── README.md             # Documentation
+
+└── memory.db             # SQLite database
