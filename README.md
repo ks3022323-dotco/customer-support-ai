@@ -14,19 +14,28 @@ An intelligent customer support system built using LangGraph that automatically 
 
 ## Project Structure
 customer_support_ai/
-├── state.py              # Task 2: Shared state structure
-├── nodes.py              # Tasks 3,5,8,9: All node functions
-├── graph.py              # Tasks 1,4: LangGraph workflow & routing
-├── rag_pipeline.py       # Task 6: RAG pipeline with FAISS
-├── memory.py             # Task 7: SQLite memory
-├── human_approval.py     # Task 8: Human-in-the-loop logic
-├── main.py               # Task 10: Demo with 5 sample queries
-├── generate_diagram.py   # Workflow diagram generator
-├── documents/            # Knowledge base documents
-├── diagrams/             # Workflow diagram PNG
-├── screenshots.pdf       # Task output screenshots
-├── README.md             # Documentation
-└── memory.db             # SQLite database
+│
+├── documents/                    # Knowledge base documents
+│   ├── company_policy.txt        # Company refund and support policies
+│   ├── pricing_guide.txt         # Subscription plans and pricing
+│   ├── technical_manual.txt      # Technical troubleshooting guide
+│   └── faq_document.txt          # Frequently asked questions
+│
+├── diagrams/                     # Workflow diagram folder
+│   └── langgraph_workflow.png    # LangGraph architecture diagram
+│
+├── state.py                      # Task 2: Shared state structure
+├── nodes.py                      # Tasks 3,5,8,9: All node functions
+├── graph.py                      # Tasks 1,4: LangGraph workflow & routing
+├── rag_pipeline.py               # Task 6: RAG pipeline with FAISS
+├── memory.py                     # Task 7: SQLite memory
+├── human_approval.py             # Task 8: Human-in-the-loop logic
+├── main.py                       # Task 10: Demo with 5 sample queries
+├── generate_diagram.py           # Workflow diagram generator
+├── memory.db                     # SQLite database file
+├── screenshots.pdf               # Task output screenshots
+├── .gitignore                    # Git ignore file
+└── README.md                     # Project documentation
 
 ## Setup Instructions
 
