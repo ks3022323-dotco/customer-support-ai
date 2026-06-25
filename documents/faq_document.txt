@@ -1,0 +1,31 @@
+FREQUENTLY ASKED QUESTIONS - ABC Technologies
+
+Q: How do I reset my password?
+A: Click "Forgot Password" on the login page, enter your email, and follow the reset link sent to your inbox.
+
+Q: What payment methods are accepted?
+A: We accept Visa, MasterCard, American Express, PayPal, and bank transfers for enterprise plans.
+
+Q: Can I upgrade or downgrade my plan?
+A: Yes, you can change your plan anytime from Dashboard > Settings > Subscription.
+
+Q: What happens to my data if I cancel?
+A: Your data is retained for 30 days after cancellation, after which it is permanently deleted.
+
+Q: Is there a mobile app?
+A: Yes, available on iOS App Store and Google Play Store.
+
+Q: How do I add more users?
+A: Go to Dashboard > Team Management > Add User.
+
+Q: What is the uptime SLA?
+A: We guarantee 99.9% uptime for Professional and Enterprise plans.
+
+Q: How do I export my data?
+A: Go to Dashboard > Settings > Data Export and select your preferred format.
+
+Q: Do you offer training?
+A: Yes, free onboarding training is available for all plans. Enterprise customers get dedicated training sessions.
+
+Q: How do I contact support?
+A: Email: support@abctechnologies.com | Chat: Available in dashboard | Phone: 1-800-ABC-TECH (Enterprise only)

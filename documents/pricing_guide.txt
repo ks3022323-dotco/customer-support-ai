@@ -1,0 +1,35 @@
+PRICING GUIDE - ABC Technologies
+
+SUBSCRIPTION PLANS:
+
+1. STARTER PLAN - $29/month
+   - Up to 5 users
+   - 10 GB storage
+   - Email support
+   - Basic reporting
+
+2. PROFESSIONAL PLAN - $79/month
+   - Up to 25 users
+   - 50 GB storage
+   - Priority email and chat support
+   - Advanced reporting and analytics
+   - API access
+
+3. ENTERPRISE PLAN - $199/month
+   - Unlimited users
+   - 500 GB storage
+   - 24/7 dedicated support
+   - Custom reporting
+   - API access
+   - Custom integrations
+   - SLA guarantee
+
+ANNUAL DISCOUNT:
+- Pay annually and save 20% on all plans.
+- Starter Annual: $278/year
+- Professional Annual: $758/year
+- Enterprise Annual: $1910/year
+
+FREE TRIAL:
+- 14-day free trial available for all plans.
+- No credit card required.

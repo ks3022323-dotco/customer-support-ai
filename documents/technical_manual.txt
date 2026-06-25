@@ -1,0 +1,34 @@
+TECHNICAL MANUAL - ABC Technologies
+
+COMMON ISSUES AND SOLUTIONS:
+
+1. APPLICATION CRASH ON FILE UPLOAD:
+   - Ensure file size does not exceed 50 MB.
+   - Supported formats: PDF, DOCX, XLSX, PNG, JPG.
+   - Clear browser cache and try again.
+   - Disable browser extensions and retry.
+   - If issue persists, contact technical support with error logs.
+
+2. LOGIN PROBLEMS:
+   - Check Caps Lock is off.
+   - Use "Forgot Password" to reset credentials.
+   - Clear cookies and cache.
+   - Try a different browser.
+   - Check if account is active.
+
+3. INSTALLATION ISSUES:
+   - Minimum requirements: Windows 10/macOS 11/Ubuntu 20.04.
+   - RAM: 4 GB minimum, 8 GB recommended.
+   - Run installer as administrator.
+   - Temporarily disable antivirus during installation.
+
+4. CONFIGURATION ISSUES:
+   - Access settings via Dashboard > Settings > Configuration.
+   - API keys can be generated under Settings > API.
+   - For SSO configuration, contact enterprise support.
+
+5. PASSWORD RESET:
+   - Go to login page and click "Forgot Password".
+   - Enter registered email address.
+   - Check inbox for reset link (valid for 24 hours).
+   - If no email received, check spam folder.
