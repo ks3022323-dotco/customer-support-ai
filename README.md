@@ -117,4 +117,4 @@ python generate_diagram.py
 | Task 10 | Five demo queries completed | Done |
 
 ## Author
-Student Submission — IBM AI Project — ABC Technologies Customer Support System
+Kumkum Singh — IBM AI Project — ABC Technologies Customer Support System
